@@ -1,7 +1,4 @@
 ## Приветствую вас! Меня зовут Абдул-Насыр, я Frontend-разработчик
-
----
-
 ### Стек технологий с которыми я работаю:
 
 <ul>
@@ -29,3 +26,4 @@
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS&logoColor=red" />
 </p>
 
+---
