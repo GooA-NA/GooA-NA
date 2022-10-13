@@ -4,10 +4,10 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=for-the-badge&logo=MongoDB&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
-  </br>
-  <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-white?style=for-the-badge&logo=Redux&logoColor=430098" />
   <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
+  </br>
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Redux-Toolkit" src="https://img.shields.io/badge/-Redux_Toolkit-white?style=for-the-badge&logo=Redux&logoColor=430098" />
   </br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
